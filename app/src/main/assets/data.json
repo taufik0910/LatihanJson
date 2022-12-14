@@ -1,0 +1,13 @@
+
+{
+  "nama": "taufit",
+  "umur": 20,
+  "alamat": "jakarta",
+  "pekerjaan" : "wirausaha",
+  "gaji": [
+    20000,
+    30000,
+    40000
+  ]
+
+}
