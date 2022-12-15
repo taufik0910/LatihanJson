@@ -1,4 +1,4 @@
-package com.example.latihanjson.model
+package com.example.latihanjson.data.model
 
 
 import com.google.gson.annotations.SerializedName
